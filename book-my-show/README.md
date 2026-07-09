@@ -53,13 +53,13 @@ show
 
 showSeat
 - show
-- number
-- show seat type
+- seat
+- cost -- this way, each show and the seat type could have its own cost
 - status ENUM (BOOKED|LOCKED|AVAILABLE)
 
-showSeatType
+<!-- showSeatType
 - type
-- cost -- this way, each show and the seat type could have its own cost
+- cost -- this way, each show and the seat type could have its own cost -->
 
 
 ### Iteration 3
