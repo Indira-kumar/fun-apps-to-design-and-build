@@ -1,0 +1,20 @@
+{
+  "results": {
+    "passed": [
+      {
+        "status": "success",
+        "test_scenario_name": "test_build_no_fields_set"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_build_with_updated_instance"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_build_without_setting_fields"
+      }
+    ],
+    "failed": []
+  },
+  "time_taken": 0.0
+}
