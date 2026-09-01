@@ -1,0 +1,24 @@
+{
+  "results": {
+    "passed": [
+      {
+        "status": "success",
+        "test_scenario_name": "test_add_prototype"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_clone"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_clone_object"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_get_prototype"
+      }
+    ],
+    "failed": []
+  },
+  "time_taken": 0.001
+}
