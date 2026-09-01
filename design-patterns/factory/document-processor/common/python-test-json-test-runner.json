@@ -1,0 +1,36 @@
+{
+  "results": {
+    "passed": [
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_presentation"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_spreadsheet"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_text"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_fields"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_inheritance"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_methods"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_type_check"
+      }
+    ],
+    "failed": []
+  },
+  "time_taken": 0.0
+}
