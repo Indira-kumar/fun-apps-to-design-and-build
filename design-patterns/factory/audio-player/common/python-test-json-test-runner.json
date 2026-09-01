@@ -1,0 +1,36 @@
+{
+  "results": {
+    "passed": [
+      {
+        "status": "success",
+        "test_scenario_name": "test_fields"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_inheritance"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_methods"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_type_check"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_flac_player"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_mp3_player"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_create_wav_player"
+      }
+    ],
+    "failed": []
+  },
+  "time_taken": 0.0
+}
