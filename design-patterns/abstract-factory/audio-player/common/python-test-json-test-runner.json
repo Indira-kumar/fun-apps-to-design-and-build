@@ -1,0 +1,20 @@
+{
+  "results": {
+    "passed": [
+      {
+        "status": "success",
+        "test_scenario_name": "test_flac_audio_factory"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_methods"
+      },
+      {
+        "status": "success",
+        "test_scenario_name": "test_mp3_audio_factory"
+      }
+    ],
+    "failed": []
+  },
+  "time_taken": 0.0
+}
